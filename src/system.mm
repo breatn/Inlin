@@ -1,4 +1,4 @@
-#include "../include/system.h"
+#include "system.h"
 #import <ApplicationServices/ApplicationServices.h>
 
 void getMousePosition(int& x, int& y) {
