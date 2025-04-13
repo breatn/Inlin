@@ -1,9 +1,9 @@
 #include "inlin_api.h"
-#include "../include/mouse.h"
-#include "../include/keyboard.h"
-#include "../include/screen.h"
-#include "../include/flow.h"
-#include "../include/system.h"
+#include "mouse.h"
+#include "keyboard.h"
+#include "screen.h"
+#include "flow.h"
+#include "system.h"
 
 #include <pybind11/embed.h>    // Must include this to use PYBIND11_EMBEDDED_MODULE
 #include <pybind11/stl.h>       // For returning tuples
