@@ -1,5 +1,5 @@
-#include "../include/flow.h"
-#include "../include/screen.h"
+#include "flow.h"
+#include "screen.h"
 #include <chrono>
 #include <thread>
 
