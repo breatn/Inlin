@@ -1,4 +1,4 @@
-#include "../include/mouse.h"
+#include "mouse.h"
 #import <ApplicationServices/ApplicationServices.h>
 
 void moveMouse(int x, int y) {
