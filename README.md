@@ -1,7 +1,7 @@
 # Inlin
 MacOS automation software
 
-Inlin is a macOS automation library that uses C++ with embedded Python via Pybind11. It provides functions for performing mouse automation, keyboard automation, screen operations, and flow control. The software exposes these capabilities through the Python module `macos_autogui`.
+Inlin is a macOS automation library that uses C++ with embedded Python via Pybind11. It provides functions for performing mouse automation, keyboard automation, screen operations, and flow control. The software exposes these capabilities through the Python module `inlin`.
 
 ## Features
 
